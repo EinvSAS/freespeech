@@ -23,3 +23,4 @@ yarn-error.log*
 *.sw?
 .nyc_output
 coverage
+.parcel-cache
